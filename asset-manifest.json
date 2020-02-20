@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daricocity/react-monst.git/static/css/main.8b1ecd77.chunk.css",
+    "main.js": "/daricocity/react-monst.git/static/js/main.832c57ba.chunk.js",
+    "main.js.map": "/daricocity/react-monst.git/static/js/main.832c57ba.chunk.js.map",
+    "runtime-main.js": "/daricocity/react-monst.git/static/js/runtime-main.ed5b2345.js",
+    "runtime-main.js.map": "/daricocity/react-monst.git/static/js/runtime-main.ed5b2345.js.map",
+    "static/js/2.cef6a132.chunk.js": "/daricocity/react-monst.git/static/js/2.cef6a132.chunk.js",
+    "static/js/2.cef6a132.chunk.js.map": "/daricocity/react-monst.git/static/js/2.cef6a132.chunk.js.map",
+    "index.html": "/daricocity/react-monst.git/index.html",
+    "precache-manifest.491eb873acc20d31dcae4414a0804cd9.js": "/daricocity/react-monst.git/precache-manifest.491eb873acc20d31dcae4414a0804cd9.js",
+    "service-worker.js": "/daricocity/react-monst.git/service-worker.js",
+    "static/css/main.8b1ecd77.chunk.css.map": "/daricocity/react-monst.git/static/css/main.8b1ecd77.chunk.css.map",
+    "static/media/logo.svg": "/daricocity/react-monst.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed5b2345.js",
+    "static/js/2.cef6a132.chunk.js",
+    "static/css/main.8b1ecd77.chunk.css",
+    "static/js/main.832c57ba.chunk.js"
+  ]
+}
